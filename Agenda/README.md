@@ -32,7 +32,7 @@ This course offers a series of technical presentations and interactive discussio
 -  Start simple with utilizing Model Endpoint for Chat
 
 ---
-# Coding and Seld-directed Explorartion 
+# Coding and Self-directed Explorartion 
 ## Depends on Developers/Participants expertise
 
 # Resources for Practices 
@@ -45,6 +45,7 @@ This course offers a series of technical presentations and interactive discussio
 
 ## Additional GitHub : 
 -  https://github.com/microsoft/ai-agents-for-beginners
+
 
 
 
