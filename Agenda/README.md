@@ -9,10 +9,10 @@ This course offers a series of technical presentations and interactive discussio
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8e94195-c09f-4b9a-a399-93c37dfaafe4" />
 
 ## Technical Presentation: Azure AI Foundry
-### Use AIFoundry.md file from the TechnicalPresentaion folder
+-  Use TechnicalPresentationNew.md or Local Powerpoint file from the TechnicalPresentaion folder
 
 # Next 
-## Deploy Resources for AI : This includes A resource Group, AI Foundry, AI Foundry Project, Deployment Of Models
+-  Deploy Resources for AI : This includes A resource Group, AI Foundry, AI Foundry Project, Deployment Of Models
 ---
 ### Sample Naming convention 
 - Resource Group: rg-doigov-ai-upskilling
@@ -26,7 +26,10 @@ This course offers a series of technical presentations and interactive discussio
 
   ---
 # Explore Azure AI Foundry
-  -  Explore with Model , Playground, Chat, Model Endpoint
+  -  Explore with Model , Playground, Chat, Model Endpoint,
+  -  Templates
+  -  <img width="2541" height="1114" alt="image" src="https://github.com/user-attachments/assets/eab1c2ff-244c-45c4-b404-7636ffeb6f50" />
+
 
 # Configure Visual Studio Code 
 -  Start simple with utilizing Model Endpoint for Chat
@@ -45,11 +48,3 @@ This course offers a series of technical presentations and interactive discussio
 
 ## Additional GitHub : 
 -  https://github.com/microsoft/ai-agents-for-beginners
-
-
-
-
-
-
-
-
